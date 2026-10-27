@@ -1,0 +1,13 @@
+{
+  "product": "柔软时间表",
+  "version": "1.4.0",
+  "architecture": "arm64",
+  "kind": "trial",
+  "trial_enabled": true,
+  "trial_hours": 72,
+  "zip": "Soft-Schedule-Trial-Mac-arm64-v1.4.0.zip",
+  "sha256": "39b48462218217cc9b884e5f0f347b62af05d3e6276fb62fe0584f6c7ef18e9b",
+  "bundle_id": "local.softtimetable.trial",
+  "signature_verified": true,
+  "no_user_or_trial_records": true
+}
